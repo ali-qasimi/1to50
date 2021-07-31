@@ -44,14 +44,3 @@ for x in range(1,51):
                 y+=1
         else: y+=1
             
-        #element.send_keys(username)
-        #print("logged in")
-
-
-# //*[@id="grid"]/div[1]
-# //*[@id="grid"]/div[2]
-# //*[@id="grid"]/div[7]
-# //*[@id="grid"]/div[25]
-# //*[@id="grid"]/div[23]/span
-#//*[@id="grid"]/div[1]/span
-#//*[@id="grid"]/div[1]/text()
