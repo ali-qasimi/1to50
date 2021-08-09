@@ -3,4 +3,4 @@ The game consists of 25 tiles with a number between 1 to 50 on them. The objecti
 
 Since there are only 25 tiles but the number go from 1 to 50, every tile changes its number once you click on it. So every tile eventually requires two clicks to be fully eliminated.
 
-I used Selenium to automate this game play, completing the game in an about 12 seconds. Manually, the game can take minutes to complete.
+I used Selenium to automate this game play, completing the game in between 5-12 seconds. Manually, the game can take minutes to complete.
